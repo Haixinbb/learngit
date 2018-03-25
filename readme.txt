@@ -1,2 +1,2 @@
-Git is my love!
-Git is my like！
+Git is my love
+Git is my like
